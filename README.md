@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kevin George 
-- 👀 Python,C Peogrammer at Anal Jyothi College of Engineering 
+- 👀 Python,C Peogrammer at Amal Jyothi College of Engineering 
 - 🌱 Currently learning new programming languages 
 - 📫 Reach me
 -    Email : kegeorge5002@gmail.com
